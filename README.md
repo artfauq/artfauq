@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A French full-stack developer based in Paris</h3>
+<h3 align="center">A full-stack developer from France</h3>
 
 <h3>💬 About</h3>
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">👨‍💻 Languages and tools</h3>
 
-<h4 align="left">Languages</h4>
+<h4 align="left">📝 Languages</h4>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank" rel="noreferrer" title="JavaScript">
   <img alt="javascript" src="https://user-images.githubusercontent.com/17045144/213675275-239ade3e-2c68-456a-8b52-6a93214efa90.svg" height="30" width="30" />
 </a>
@@ -33,7 +33,7 @@
   <img alt="typescript" src="https://user-images.githubusercontent.com/17045144/213675316-ce12ae7e-2e54-4dbc-ba9f-e2599a9ef769.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Front-end</h4>
+<h4 align="left">👀 Front-end</h4>
 <a href="https://reactjs.org/" target="blank" rel="noreferrer" title="React">
   <img alt="react" src="https://user-images.githubusercontent.com/17045144/213679423-144db434-1243-43c8-944a-60315a7c035e.svg" height="30" width="30" />
 </a>
@@ -70,7 +70,7 @@
   <img alt="tailwind" src="https://user-images.githubusercontent.com/17045144/213676421-351d862a-766d-4c16-84d2-f85d02f26f9e.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Back-end</h4>
+<h4 align="left">🛡️ Back-end</h4>
 <a href="https://nodejs.org/" target="blank" rel="noreferrer" title="Node.js">
   <img alt="nodejs" src="https://user-images.githubusercontent.com/17045144/213674756-8a16c33f-c467-4930-a3b9-f88d62f9b504.svg" height="30" width="30" />
 </a>
@@ -95,12 +95,12 @@
   <img alt="socket-io" src="https://user-images.githubusercontent.com/17045144/213677600-7eb3cdc8-9332-4c5c-9ca0-355542c6575b.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Mobile</h4>
+<h4 align="left">📱 Mobile</h4>
 <a href="https://reactnative.dev/" target="blank" rel="noreferrer" title="React Native">
   <img alt="react-native" src="https://user-images.githubusercontent.com/17045144/213677479-2fec4c34-ebaa-47d9-94e6-1c399f6a1820.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Databases</h4>
+<h4 align="left">📊 Databases</h4>
 <a href="https://www.mysql.com/" target="blank" rel="noreferrer" title="MySQL">
   <img alt="mysql" src="https://user-images.githubusercontent.com/17045144/213674120-bffd6681-5461-4d90-900f-b632892bc79d.svg" height="30" width="30" />
 </a>
@@ -109,7 +109,7 @@
   <img alt="postgresql" src="https://user-images.githubusercontent.com/17045144/213674129-79bcf829-ec4c-4497-ba69-22fa8051e31f.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">CI/CD</h4>
+<h4 align="left">🚀 CI/CD</h4>
 <a href="https://git-scm.com/" target="blank" rel="noreferrer" title="Git">
   <img alt="git" src="https://user-images.githubusercontent.com/17045144/213674244-bea4d22b-8b86-4a44-bfc6-108a9465b982.svg" height="30" width="30" />
 </a>
@@ -142,7 +142,7 @@
   <img alt="sentry" src="https://user-images.githubusercontent.com/17045144/213675564-e53b9e38-f6be-4c79-aa63-0d04428aaee1.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Testing & linting</h4>
+<h4 align="left">🧪 Testing & linting</h4>
 <a href="https://jestjs.io/" target="blank" rel="noreferrer" title="Jest">
   <img alt="jest" src="https://user-images.githubusercontent.com/17045144/213674922-de98ba8a-85f7-4a48-87e3-2b6b1c216ba6.svg" height="30" width="30" />
 </a>
@@ -155,7 +155,7 @@
   <img alt="prettier" src="https://user-images.githubusercontent.com/17045144/213676680-b765efda-aeae-4370-b2c7-3fba1d744631.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Documentation</h4>
+<h4 align="left">🔍 Documentation</h4>
 <a href="https://storybook.js.org/" target="blank" rel="noreferrer" title="Storybook">
   <img alt="storybook" src="https://user-images.githubusercontent.com/17045144/213680387-9b133c2b-77ed-48ba-97f0-275dae1b4a1a.svg" height="30" width="30" />
 </a>
@@ -164,7 +164,7 @@
   <img alt="swagger" src="https://user-images.githubusercontent.com/17045144/213680519-fa1e706f-c832-4159-8d17-a6a8c1b70056.svg" height="30" width="30" />
 </a>
 
-<h4 align="left">Tools</h4>
+<h4 align="left">🔧 Tools</h4>
 <a href="https://www.postman.com/" target="blank" rel="noreferrer" title="Postman">
   <img alt="postman" src="https://user-images.githubusercontent.com/17045144/213674287-4f877fed-fa95-4e43-9c6e-89a81db9a200.svg" height="30" width="30" />
 </a>
