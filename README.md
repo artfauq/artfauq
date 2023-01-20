@@ -143,7 +143,7 @@
 </a>
 &nbsp;
 <a href="#" target="blank" rel="noreferrer">
-  <img alt="swagger" src="https://user-images.githubusercontent.com/17045144/213676343-cb2905f1-afbf-47ab-978e-a5f7fdba9580.svg" height="30" width="30" />
+  <img alt="swagger" src="https://user-images.githubusercontent.com/17045144/213680387-9b133c2b-77ed-48ba-97f0-275dae1b4a1a.svg" height="30" width="30" />
 </a>
 
 <h4 align="left">Tools</h4>
