@@ -139,11 +139,11 @@
 
 <h4 align="left">Documentation</h4>
 <a href="#" target="blank" rel="noreferrer">
-  <img alt="storybook" src="https://user-images.githubusercontent.com/17045144/213676330-45ac66ff-fb54-426a-892a-8c0de5c6ab70.svg" height="30" width="30" />
+  <img alt="storybook" src="https://user-images.githubusercontent.com/17045144/213680387-9b133c2b-77ed-48ba-97f0-275dae1b4a1a.svg" height="30" width="30" />
 </a>
 &nbsp;
 <a href="#" target="blank" rel="noreferrer">
-  <img alt="swagger" src="https://user-images.githubusercontent.com/17045144/213680387-9b133c2b-77ed-48ba-97f0-275dae1b4a1a.svg" height="30" width="30" />
+  <img alt="swagger" src="https://user-images.githubusercontent.com/17045144/213680519-fa1e706f-c832-4159-8d17-a6a8c1b70056.svg" height="30" width="30" />
 </a>
 
 <h4 align="left">Tools</h4>
