@@ -22,7 +22,7 @@
 </a>
 &nbsp;
 <a href="#" target="blank" rel="noreferrer">
-  <img alt="nextjs" src="https://user-images.githubusercontent.com/17045144/213672934-73309b97-0f74-48df-9869-76694da9e8f4.svg" height="30" width="30" />
+  <img alt="nextjs" src="https://user-images.githubusercontent.com/17045144/213679818-2f980492-184e-430d-8066-3af42e960ee5.svg" height="30" width="30" />
 </a>
 &nbsp;
 <a href="#" target="blank" rel="noreferrer">
