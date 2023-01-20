@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A full-stack developer from France</h3>
 
-<h3>About</h3>
+<h3>💬 About</h3>
 
 🚧 **WIP** 🚧
 
-<h3 align="left">Languages and tools</h3>
+<p>📫 Reach me at <a href="mailto:arthurfauquenot@gmail.com">arthurfauquenot@gmail.com</a></p>
+
+<h3 align="left">🔗 Links</h3>
+<p>
+  <a href="https://www.linkedin.com/in/arthurfauq/" target="blank" rel="noreferrer" title="Angular">
+    <img alt="Arthur's LinkedIn profile" height="24" src="https://user-images.githubusercontent.com/17045144/156400575-bf9004b3-2336-40b4-8655-a48c7dc79b71.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.malt.fr/profile/arthurfauq" target="blank" rel="noreferrer" title="Angular">
+    <img alt="Arthur's Malt profile" height="24" src="https://user-images.githubusercontent.com/17045144/156402857-2e4c2806-3ac5-4879-b073-e38a555b58d1.png" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/117752901?si=bd405ed650044ad6" target="blank" rel="noreferrer" title="Angular">
+    <img alt="Arthur's Spotify profile" height="24" src="https://user-images.githubusercontent.com/17045144/156401177-e73e0b69-6d4d-42d7-887e-1d378bc92332.svg" />
+  </a>
+</p>
+
+<h3 align="left">👨‍💻 Languages and tools</h3>
 
 <h4 align="left">Languages</h4>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="blank" rel="noreferrer" title="JavaScript">
@@ -163,20 +180,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurfauq&show_icons=true&locale=en&layout=compact" alt="arthurfauq" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurfauq&show_icons=true&locale=en" alt="arthurfauq" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfauq&" alt="arthurfauq" /></p>-->
-
-<h3 align="left">Links</h3>
-<p>
-  <a href="https://www.linkedin.com/in/arthurfauq/" target="blank" rel="noreferrer" title="Angular">
-    <img alt="Arthur's LinkedIn profile" height="30" src="https://user-images.githubusercontent.com/17045144/156400575-bf9004b3-2336-40b4-8655-a48c7dc79b71.svg" />
-  </a>
-  &nbsp;
-  <a href="https://www.malt.fr/profile/arthurfauq" target="blank" rel="noreferrer" title="Angular">
-    <img alt="Arthur's Malt profile" height="30" src="https://user-images.githubusercontent.com/17045144/156402857-2e4c2806-3ac5-4879-b073-e38a555b58d1.png" />
-  </a>
-  <a href="https://open.spotify.com/user/117752901?si=bd405ed650044ad6" target="blank" rel="noreferrer" title="Angular">
-    <img alt="Arthur's Spotify profile" height="30" src="https://user-images.githubusercontent.com/17045144/156401177-e73e0b69-6d4d-42d7-887e-1d378bc92332.svg" />
-  </a>
-</p>
-</br>
-</br>
-<p>📫 Reach me at <a href="mailto:arthurfauquenot@gmail.com">arthurfauquenot@gmail.com</a></p>
